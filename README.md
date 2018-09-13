@@ -7,3 +7,20 @@
 #3、当手机微信扫描后显示该用户头像
 
 #4、登录后展示该用户名称
+
+
+#react & django 
+
+#react:
+```
+yarn start 
+```
+
+
+#django
+```
+python manage.py runserver 
+```
+
+
+#http://localhost:3000/login
