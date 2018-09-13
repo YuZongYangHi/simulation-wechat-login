@@ -24,3 +24,6 @@ python manage.py runserver
 
 
 #http://localhost:3000/login
+
+![image](https://github.com/YuZongYangHi/simulation-wechat-login/demo.gif)   
+
