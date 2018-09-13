@@ -81,7 +81,7 @@ class Wechat(object):
        
         data = {
             "BaseRequest":{
-                "DeviceID":"e658583463992794",
+                "DeviceID":"e658583463992794729",
                 "Sid":response['wxsid'],
                 "Skey":response['skey'],
                 "Uin":response['wxuin']
