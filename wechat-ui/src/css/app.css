@@ -1,0 +1,11 @@
+.global {
+    width:600px;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    margin-left: -300px;
+    margin-top:-300px;
+    box-shadow:0 0 100px rgba(0, 0, 0, 0.08);
+    background-color:#eee;
+}

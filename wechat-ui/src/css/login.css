@@ -1,0 +1,22 @@
+img {
+    display: block;
+    width: 270px;
+    height: 270px;
+    text-align: center;
+    margin: 42px auto 12px;
+}
+
+p {
+    text-align: center;
+}
+.login-block {
+    width:400px;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    top:35%;
+    margin-left: -200px;
+    margin-top:-200px;
+    box-shadow:0 0 100px rgba(0, 0, 0, 0.08)
+}
+
